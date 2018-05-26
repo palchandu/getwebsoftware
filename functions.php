@@ -1,0 +1,16 @@
+<?php
+require_once('inc/after_theme_setup.php');
+require_once('inc/portfolio_metabox.php');
+require_once('inc/about_page_metabox.php');
+require_once('inc/extra_functions.php');
+require_once('inc/redux-framework-master/redux-framework.php');
+require_once('inc/my-options.php');
+require_once('inc/custom-widgets.php');
+require_once('inc/php_interview.php');
+require_once('inc/mysql_interview.php');
+require_once('inc/php_tutorials.php');
+require_once('inc/mysql_tutorials.php');
+require_once('inc/html_tutorials.php');
+require_once('inc/css_tutorials.php');
+require_once('inc/jquery_tutorials.php');
+?>
